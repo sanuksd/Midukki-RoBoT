@@ -5,7 +5,7 @@ I'm <b>{bot}</b> ✨ an advanced telegram Group management
 
 I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential..!
 
-Join <b><a href=http://t.me/Mo_Tech_YT>my news channel</a></b> to get information on all the latest updates
+Join <b><a href=https://t.me/sanufilterv1_botgrp>my news channel</a></b> to get information on all the latest updates
 """
 
 HELP_TXT = """
@@ -27,18 +27,18 @@ ABOUT_TXT = """
 [{name}](t.me/{username}) Was created on September 4, 2022
 We are currently developing this bot, using only the Pyrogram library.
 
-➾ Developers : Muhammed
+➾ Developers : @Thisis_sanu
 ➾ Language : Python3
 ➾ Framework : Pyrogram
 ➾ Database : Mongo db
+credits goes to muhammed and @Mo_Tech_YT 
 """
 
 DONATE_TXT = """
 If you like this project of mine, you can donate by clicking on the given link
 
-Dev : [Muhammed](t.me/Pr0fess0r_99)
-Paytm : [Click Here](https://p.paytm.me/xCTH/7yzmtgie)
-  or UPI `motech8129@okaxis`
+Dev : [sanu](t.me/Thisis_sanu)
+
 """
 
 STATUS_TXT = """
